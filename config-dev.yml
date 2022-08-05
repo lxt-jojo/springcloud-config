@@ -1,8 +1,6 @@
 server:
   port: 3344
 
-v: 1
-
 spring:
   application:
     name: cloud-eureka-customer
